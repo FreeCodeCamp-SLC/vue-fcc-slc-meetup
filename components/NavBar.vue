@@ -32,6 +32,9 @@
       <div class="navbar-end">
         <div class="navbar-item">
           <div class="buttons">
+            <a href="https://fccslc.netlify.com/" class="button is-secondary">
+              <strong>Sign In</strong>
+            </a>
             <a href="https://www.freecodecamp.org/" class="button is-primary">
               <strong>Start Learning</strong>
             </a>
