@@ -41,6 +41,7 @@ export default {
   modules: [
     // Doc: https://axios.nuxtjs.org/usage
     '@nuxtjs/axios',
+    '@nuxtjs/bulma',
   ],
   /*
   ** Axios module configuration
@@ -56,6 +57,13 @@ export default {
     /*
     ** You can extend webpack config here
     */
+    postcss: {
+      preset: {
+        features: {
+          customProperties: false
+        }
+      }
+    },
     extend(config, ctx) {
     }
   }
