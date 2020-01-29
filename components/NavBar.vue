@@ -32,9 +32,9 @@
       <div class="navbar-end">
         <div class="navbar-item">
           <div class="buttons">
-            <a href="https://fccslc.netlify.com/" class="button is-secondary">
+            <nuxt-link to="/signin" class="button is-secondary">
               <strong>Sign In</strong>
-            </a>
+            </nuxt-link>
             <a href="https://www.freecodecamp.org/" class="button is-primary">
               <strong>Start Learning</strong>
             </a>
