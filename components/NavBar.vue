@@ -32,6 +32,9 @@
       <div class="navbar-end">
         <div class="navbar-item">
           <div class="buttons">
+            <nuxt-link to="/signin" class="button is-secondary">
+              <strong>Sign In</strong>
+            </nuxt-link>
             <a href="https://www.freecodecamp.org/" class="button is-primary">
               <strong>Start Learning</strong>
             </a>
