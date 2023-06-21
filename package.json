@@ -15,7 +15,7 @@
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/bulma": "^1.2.5",
     "cross-env": "^5.2.0",
-    "nuxt": "^2.4.0",
+    "nuxt": "^3.4.3",
     "vue-simple-calendar": "^4.2.2"
   },
   "devDependencies": {
